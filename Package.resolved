@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "clickstream-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/clickstream-developers/Clickstream-iOS",
+      "state" : {
+        "revision" : "b6fd31c3874f7418ae3ddd83b6011ecceb9d8259",
+        "version" : "1.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
